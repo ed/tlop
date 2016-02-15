@@ -10,4 +10,4 @@ python3 run.py "string1" "string2"
 this should output the 1500x1500 png  
 
 sample output:  
-<img src= "http://54.183.133.233/static/sample.png"/>
+<img src= "https://imgur.com/2zaEN0r"/>
