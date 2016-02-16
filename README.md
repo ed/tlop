@@ -1,4 +1,6 @@
 # tlop-cover-generator
+
+http://54.183.133.233/  
 generates a cover similar to the new the life of pablo cover by Kanye West
 
 depends on: pygame, runs fine with python 3.4.3
